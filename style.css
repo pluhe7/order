@@ -1,0 +1,17 @@
+#order-container{
+	width: 70%;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	text-align: center;
+	border-collapse: collapse;
+}
+td {
+	border: 1px solid #ccc;
+}
+#page-nav{
+	margin-top: 10px;
+	text-align: center;
+}
+.page {
+	margin: 0 5px;
+}

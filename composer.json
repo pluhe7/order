@@ -1,0 +1,13 @@
+{
+    "name": "pluhe7/orders",
+    "require-dev": {
+        "shopexpress/apiclient": "2.0.1"
+    },
+    "authors": [
+        {
+            "name": "pluhe7",
+            "email": "pluhe7@gmail.com"
+        }
+    ],
+    "require": {}
+}
